@@ -1,6 +1,6 @@
 /** VARIABLES **/
 :root {
-  --color-main: #4034ff;
+  --color-main: #e53c38;
   --color-bg: #fffaef;
   --color-input: #e5dcc8;
   --color-text: #383838;
@@ -103,6 +103,7 @@ form .group > * {
 .signup {
   width: var(--panel-w);
   margin-left: var(--panel-m);
+  opacity: 1;
 }
 
 .panel.hide {
